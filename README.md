@@ -2,6 +2,10 @@
 
 This repository demonstrates hand gesture recognition using Python, OpenCV, and MediaPipe. It contains Python scripts, designed to recognize a distinct hand gesture.
 
+Reproducible Hand Gesture Recognition (0-9)
+
+This repository contains the code for training and running a hand gesture recognition system for digits 0-9.  It details the steps involved in training the model using a digit gesture dataset (dataset not included).  Uses Python, OpenCV, and MediaPipe.
+
 ## Technologies Used
 
 *   **Python:** The primary programming language.
