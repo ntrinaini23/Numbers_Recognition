@@ -18,8 +18,8 @@ This repository contains the code for training and running a hand gesture recogn
 1.  **Clone the Repository:**
 
     ```bash
-    git clone [([https://github.com/ntrinaini23/opencv-mediapipe)](https://github.com/ntrinaini23)]
-    cd opencv-mediapipe
+    git clone [([https://github.com/ntrinaini23/Numbers_Recognition)](https://github.com/ntrinaini23)]
+    cd Numbers_Recognition
     ```
 
 2.  **Install Dependencies:**
